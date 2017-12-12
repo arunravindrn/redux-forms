@@ -1,5 +1,13 @@
 ## React Redux Forms Assignment
-The assignment involves submitting a form to a test server on clicking submit button and uploading an image when the image is selected to the test server using react redux architecture.
+The assignment involves submitting a form to a test server on clicking submit button and uploading an image when the image is selected to the test server using react redux architecture. 
+
+## libraries involved
+### redux
+### react-redux
+### redux-thunk - for handling asynchronous actions  using redux
+### react bootstrap - for styling react components
+### axios - for network requests
+
 
 ## Main files
 ### index.js
