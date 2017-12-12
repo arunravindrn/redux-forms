@@ -319,3 +319,8 @@ export default combineReducers({
     forms:FormReducer
 })
 ```
+## Console Logs
+![Screenshot](5.png)
+
+![Screenshot](6.png)
+
