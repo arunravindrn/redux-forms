@@ -19,7 +19,7 @@ The assignment involves submitting a form to a test server on clicking submit bu
 ![Screenshot](4.png)
 ####  The result after submission of form. The data and status from the server is notified on the screen. As you can see status is 200 and the server received 2 post variables
 
-#### console logs
+
 
 ## Main files
 ### index.js
