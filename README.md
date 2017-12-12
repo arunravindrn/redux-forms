@@ -8,6 +8,18 @@ The assignment involves submitting a form to a test server on clicking submit bu
 ### react bootstrap - for styling react components
 ### axios - for network requests
 
+## Screenshots
+![Screenshot](1.png)
+####  Form to fill company details with inputs  company name and textarea company description. The form also contains an image upload input which uploads images on selection to server. 
+![Screenshot](2.png)
+#### Validation if fields are empty
+![Screenshot](3.png)
+#### The image after selecting will be previewed on screen and will be uploaded. The server data and status can be seen on the screen and console. As you can see status is 200
+
+![Screenshot](4.png)
+####  The result after submission of form. The data and status from the server is notified on the screen. As you can see status is 200 and the server received 2 post variables
+
+#### console logs
 
 ## Main files
 ### index.js
